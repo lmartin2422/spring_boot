@@ -1,4 +1,4 @@
-# spring_boot
+# Spring_boot
 Java Spring Boot Tutorial
 
 This project was a follow-along to a Youtube Tutorial which built an application using SpringBoot in IntelliJ.
